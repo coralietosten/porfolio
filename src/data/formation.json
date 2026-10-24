@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Cycle ingénieur en informatique",
+        "title_en": "Computer Engineering Degree",
+        "school": "Polytech Nantes",
+        "detail": "5e année",
+        "detail_en": "5th year",
+        "status": "En cours",
+        "status_en": "In progress",
+        "description": "Cycle ingénieur en informatique, avec un intérêt particulier pour la data science, le machine learning et le développement logiciel.",
+        "description_en": "Computer engineering degree, with a particular interest in data science, machine learning, and software development."
+    },
+    {
+        "id": 2,
+        "title": "Classe préparatoire aux grandes écoles MP2I/MPI",
+        "title_en": "MP2I/MPI Preparatory Classes",
+        "school": "Lycée Lesage Vannes",
+        "detail": "",
+        "detail_en": "",
+        "status": "Terminé",
+        "status_en": "Completed",
+        "description": "Classe préparatoire MP2I/MPI suivie avant l’intégration du cycle ingénieur.",
+        "description_en": "MP2I/MPI preparatory classes completed before starting the engineering degree."
+    }
+]

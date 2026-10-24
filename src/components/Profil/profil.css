@@ -1,0 +1,71 @@
+.profile-card {
+    box-sizing: border-box;
+    color: var(--card-text);
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+    padding: 24px;
+}
+
+.profile-card h1{
+    margin : 0px;
+}
+
+.profile-card > span{
+    font-size : 26px;
+    color: var(--card-muted);
+    padding-top:0px;
+    margin : 2px !important;
+}
+
+.profile-card h3{
+    font-size : 26px;
+    color: var(--card-heading);
+    padding-top:0px;
+    margin : 0px !important;
+}
+
+.liens i { 
+    color: var(--card-accent);
+    font-size: 3rem; 
+}
+
+.info-importantes{
+    display : flex;
+    flex-direction: row
+}
+
+.info-importantes .mini-carte{
+    margin : 10px;
+    padding : 20px;
+    border : solid 1px var(--profile-mini-border);
+    border-radius : 10px;
+    background :var(--profile-mini-background);
+}
+
+.info-importantes .mini-carte #detail{
+    font-size : 15px;
+    padding : 0px;
+}
+
+.info-importantes .mini-carte div #title{
+    font-size : 15px;
+    padding : 0px;
+}
+
+.info-importantes .mini-carte i{
+    font-size : 1rem;
+    /* margin : 10px; */
+}
+
+.info-importantes .mini-carte div{
+    display : flex;
+    flex-direction : row;
+    justify-content: space-between;
+}
+
+.info-importantes .mini-carte span{
+    font-size : 10px;
+    color: var(--card-muted);
+}

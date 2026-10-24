@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nom": "SpaceCode",
+    "description": "Conception d’un prototype de plateforme interactive de ludification de l’apprentissage du développement web, permettant de découvrir le HTML à travers des exercices pratiques et progressifs.",
+    "description_en": "Designed a prototype interactive platform that gamifies web development learning and introduces HTML through practical, progressive exercises.",
+    "technologies": ["React", "TypeScript", "Express", "SQLite", "API REST"],
+    "video": "/video/spacecode.mp4",
+    "lien" : "#"
+  },
+  {
+    "id": 2,
+    "nom": "Open-CVE",
+    "description": "Application web permettant de suivre les vulnérabilités CVE liées aux logiciels sélectionnés.",
+    "description_en": "Web application for tracking CVE vulnerabilities related to selected software.",
+    "technologies": ["Node.js", "Express", "React", "Typescript", "API REST", "PostgreSQL", "Docker"],
+    "video": "/video/opencve.mp4",
+    "lien" : "https://cve.tomema.com"
+  }
+]

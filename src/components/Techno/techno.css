@@ -1,0 +1,30 @@
+/* .techno {
+    display: inline-block;
+
+    margin: 0px 0px 5px 5px;
+    padding: 6px 10px;
+
+    background: #f2effb;
+    border: 1px solid #e3dcf4;
+    border-radius: 7px;
+
+    color: #6d50c7;
+
+    font-size: 0.78rem;
+    font-weight: 600;
+} */
+
+.techno {
+    padding: 4px 10px;
+
+    background: var(--tag-background);
+
+    border: 1px solid var(--tag-border);
+
+    border-radius: 8px;
+
+    color: var(--tag-text);
+
+    font-size: 0.75rem;
+    font-weight: 600;
+}

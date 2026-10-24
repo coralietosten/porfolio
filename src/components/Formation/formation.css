@@ -1,0 +1,10 @@
+.education-list {
+	display: grid;
+	gap: 20px;
+}
+
+.education-description {
+	margin: 12px 0 0;
+	color: var(--card-text);
+	line-height: 1.6;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "periode": "Juin 2026 – Septembre 2026",
+    "period_en": "June 2026 – September 2026",
+    "poste": "Stagiaire développeuse web",
+    "poste_en": "Web Development Intern",
+    "organisme": "TOMEMA · Nantes",
+    "organisme_en": "TOMEMA · Nantes",
+    "description": "Développement et conception d'application web.",
+    "description_en": "Contributed to the design and development of web applications.",
+    "missions": [
+      "Développement et conception d’une application web de veille sur les vulnérabilités CVE et de notification pour les logiciels sélectionnés. ",
+      "Refonte et personnalisation d’un site web sous WordPress pour un club de handball, avec amélioration de l’ergonomie et de la présentation des contenus. ",
+      "Développement d’une application web de recherche de profils LinkedIn, inspirée de LinkedIn Sales Navigator, avec système de filtres et collecte automatisée de profils."
+    ],
+    "missions_en": [
+      "Designed and developed a web application to monitor CVE vulnerabilities and send notifications for selected software.",
+      "Redesigned and customized a WordPress website for a handball club, improving usability and content presentation.",
+      "Developed a LinkedIn profile search web application inspired by LinkedIn Sales Navigator, with filters and automated profile collection."
+    ]
+  }
+]
