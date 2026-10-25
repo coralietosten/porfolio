@@ -1,11 +1,15 @@
 import Techno from '../Techno/Techno';
 
 function Card({ projet, description, techno, visuel, lien, copy }) {
+    const videoSource = visuel?.startsWith('/')
+        ? `${process.env.PUBLIC_URL}${visuel}`
+        : visuel;
+
     return (
         <div className="card">
             <div className="image">
                 <video controls width="250" muted loop playsInline>
-                    <source src={visuel} type="video/mp4" />
+                    <source src={videoSource} type="video/mp4" />
                 </video>
             </div>
             <div className='body'>
